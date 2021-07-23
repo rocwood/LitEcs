@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <DefineConstants>CONSOLE_APP</DefineConstants>
+    <OutputType>Exe</OutputType>
+    <StartupObject>ECS.Benchmark.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\code\LitEcs\LitEcs.csproj" />
+  </ItemGroup>  
+</Project>
