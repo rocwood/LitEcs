@@ -1,0 +1,4 @@
+[submodule "code/ecslite"]
+	path = code/ecslite
+	url = https://github.com/rocwood/ecslite.git
+	branch = develop
