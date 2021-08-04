@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "code", "code", "{E8A3FE03-D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{29EDE32C-B5C3-4343-A5E0-3A5DBADCD0B6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leopotam.EcsLite", "code\ecslite\Leopotam.EcsLite.csproj", "{2CA86BA1-E707-41DE-B5C9-FD4E1042DFDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{73AE2455-5C19-4E27-9D78-2BDDD55C1CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73AE2455-5C19-4E27-9D78-2BDDD55C1CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73AE2455-5C19-4E27-9D78-2BDDD55C1CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA86BA1-E707-41DE-B5C9-FD4E1042DFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA86BA1-E707-41DE-B5C9-FD4E1042DFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA86BA1-E707-41DE-B5C9-FD4E1042DFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA86BA1-E707-41DE-B5C9-FD4E1042DFDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +42,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{AEECAB13-C6BC-4B39-A1F6-05F98DF6F3A9} = {E8A3FE03-D9D0-4802-9A33-6DC22F60C193}
 		{73AE2455-5C19-4E27-9D78-2BDDD55C1CED} = {29EDE32C-B5C3-4343-A5E0-3A5DBADCD0B6}
+		{2CA86BA1-E707-41DE-B5C9-FD4E1042DFDB} = {E8A3FE03-D9D0-4802-9A33-6DC22F60C193}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F3EC0FE4-5DD2-48D3-A4B8-69C69F2CD582}
